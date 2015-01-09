@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><uyeler>
+<kisisel><uyeIdK><isim>Umut Can</isim><soyisim>Aksoy</soyisim><sifre>12345</sifre><eposta>umutcan@hotmail.com</eposta><seviye>1</seviye></uyeIdK></kisisel>
+<egitmen><uyeIdE><isim>Lori Rae</isim><soyisim>Russell-Dağ</soyisim><sifre>12345</sifre><eposta>lori@hotmail.com</eposta><siniflar>Bilkent CTE 01</siniflar></uyeIdE></egitmen>
+<ogrenci><uyeIdO><isim>Anıl</isim><soyisim>Özdem</soyisim><sifre>12345</sifre><eposta>anil@hotmail.com</eposta><seviye>1</seviye><siniflar>Bilkent CTE 01</siniflar></uyeIdO></ogrenci>
+<ogrenci><uyeIdO><isim>Burak</isim><soyisim>Koçak</soyisim><sifre>12345</sifre><eposta>burak@hotmail.com</eposta><seviye>2</seviye><siniflar>Bilkent CTE 02</siniflar></uyeIdO></ogrenci>
+<kisisel><uyeIdK><isim>Cem</isim><soyisim>Cenen</soyisim><sifre>12345</sifre><eposta>cem@hotmail.com</eposta><seviye>1</seviye></uyeIdK></kisisel>
+<egitmen><uyeIdE><isim>Şener</isim><soyisim>Üşengeç</soyisim><sifre>12345</sifre><eposta>sener@hotmail.com</eposta></uyeIdE></egitmen>
+</uyeler>

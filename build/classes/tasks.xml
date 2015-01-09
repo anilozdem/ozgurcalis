@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<tasks>
+
+    <item>      
+        <id>1</id>      
+        <name>Hesap Makinesi</name>      
+        <hints>Windows kullanıcıları hesap makinesi uygulamasını açmak için, windows+R tuşlarına bastıktan sonra açılan çalıştır penceresine calc yazmaları yeterlidir.</hints>      
+        <relatedTasks>7, 8, 12</relatedTasks>       
+        <processName>calc</processName>        
+    </item>
+
+    <item>      
+        <id>2</id>       
+        <name>Open Office</name>       
+        <hints>Microsoft office excel uygulamasını kısayoluna tıklayarak veya kurulu olduğu klasör içerisinden exe dosyasına tıklayarak çalıştırabilirsiniz.</hints>       
+        <relatedTasks>7, 8, 12</relatedTasks>       
+        <processName>excel</processName>      
+    </item>
+    
+    <item>      
+        <id>3</id>       
+        <name>Web Tarayıcısı</name>       
+        <hints>Bilgisayarınızda yüklü olan tarayıcıyı masaüstü kısayoluna tıklayarak açabilirsiniz.</hints>       
+        <relatedTasks>7, 8, 12</relatedTasks>       
+        <processName>firefox</processName>      
+    </item>
+
+</tasks>

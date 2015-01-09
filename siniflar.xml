@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<siniflar>
+    
+    <sinifAdi>
+        <adi>Bilkent CTE 01</adi>
+        <sehir>Ankara</sehir>       
+        <ulke>TR</ulke>    
+        <kullaniciSayisi>14</kullaniciSayisi>
+        <sinifKapasitesi>20</sinifKapasitesi>
+        <egitmen>Reyyan Ayfer</egitmen>     
+        <kayitliUyeler>Kisisel Uye</kayitliUyeler>
+        <sinifSeviyesi>1</sinifSeviyesi>
+    </sinifAdi>
+    
+    <sinifAdi>
+        <adi>Bilkent CTE 02</adi>
+        <sehir>Ankara</sehir>       
+        <ulke>ES</ulke>    
+        <kullaniciSayisi>14</kullaniciSayisi>
+        <sinifKapasitesi>25</sinifKapasitesi>
+        <egitmen>Reyyan Ayfer</egitmen>     
+        <kayitliUyeler>Kisisel Uye</kayitliUyeler>
+        <sinifSeviyesi>2</sinifSeviyesi>
+    </sinifAdi>
+    
+    <sinifAdi>
+        <adi>Bilkent CTE 03</adi>
+        <sehir>Ankara</sehir>       
+        <ulke>TR</ulke>    
+        <kullaniciSayisi>14</kullaniciSayisi>
+        <sinifKapasitesi>20</sinifKapasitesi>
+        <egitmen>Reyyan Ayfer</egitmen>     
+        <kayitliUyeler>Kisisel Uye</kayitliUyeler>
+        <sinifSeviyesi>1</sinifSeviyesi>
+    </sinifAdi>
+    
+    <sinifAdi>
+        <adi>Bilkent CTE 04</adi>
+        <sehir>Ankara</sehir>       
+        <ulke>JM</ulke>    
+        <kullaniciSayisi>14</kullaniciSayisi>
+        <sinifKapasitesi>20</sinifKapasitesi>
+        <egitmen>Reyyan Ayfer</egitmen>     
+        <kayitliUyeler>Kisisel Uye</kayitliUyeler>
+        <sinifSeviyesi>3</sinifSeviyesi>
+    </sinifAdi>
+    
+    
+</siniflar>

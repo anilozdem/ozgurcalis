@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<uploadlar>
+    
+    <uploadListesi>
+        <upload>  
+            <uploadEdenOgrenci>Anil Özdem</uploadEdenOgrenci>
+            <uploadEdilenSinif>Bilkent CTE 02</uploadEdilenSinif>
+            <uploadEdilenGorevNosu>1</uploadEdilenGorevNosu>
+            <uploadEdilenDosyaninAdi>birinci görev</uploadEdilenDosyaninAdi>
+        </upload>
+    </uploadListesi>
+    
+</uploadlar>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<sonGiris>
+    <sonGirisEposta>1235@hotmail.com</sonGirisEposta>
+    <sonGirisSifre>123</sonGirisSifre>
+    <sonGirisStatu>Öğrenci</sonGirisStatu>
+</sonGiris>
